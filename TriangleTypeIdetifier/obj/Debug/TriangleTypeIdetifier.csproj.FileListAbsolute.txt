@@ -1,0 +1,7 @@
+C:\Users\Mr Hanson\Desktop\Jos\TriangleTypeIdetifier\bin\Debug\TriangleTypeIdetifier.exe.config
+C:\Users\Mr Hanson\Desktop\Jos\TriangleTypeIdetifier\bin\Debug\TriangleTypeIdetifier.exe
+C:\Users\Mr Hanson\Desktop\Jos\TriangleTypeIdetifier\bin\Debug\TriangleTypeIdetifier.pdb
+C:\Users\Mr Hanson\Desktop\Jos\TriangleTypeIdetifier\obj\Debug\TriangleTypeIdetifier.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\Jos\TriangleTypeIdetifier\obj\Debug\TriangleTypeIdetifier.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\Jos\TriangleTypeIdetifier\obj\Debug\TriangleTypeIdetifier.exe
+C:\Users\Mr Hanson\Desktop\Jos\TriangleTypeIdetifier\obj\Debug\TriangleTypeIdetifier.pdb
