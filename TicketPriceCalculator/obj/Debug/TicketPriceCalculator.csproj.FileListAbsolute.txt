@@ -1,0 +1,7 @@
+C:\Users\Mr Hanson\Desktop\Jos\TicketPriceCalculator\bin\Debug\TicketPriceCalculator.exe.config
+C:\Users\Mr Hanson\Desktop\Jos\TicketPriceCalculator\bin\Debug\TicketPriceCalculator.exe
+C:\Users\Mr Hanson\Desktop\Jos\TicketPriceCalculator\bin\Debug\TicketPriceCalculator.pdb
+C:\Users\Mr Hanson\Desktop\Jos\TicketPriceCalculator\obj\Debug\TicketPriceCalculator.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\Jos\TicketPriceCalculator\obj\Debug\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\Jos\TicketPriceCalculator\obj\Debug\TicketPriceCalculator.exe
+C:\Users\Mr Hanson\Desktop\Jos\TicketPriceCalculator\obj\Debug\TicketPriceCalculator.pdb
